@@ -43,8 +43,6 @@ cd backend
 python app.py
 ```
 
-### 4. Open the App
-Navigate to **http://localhost:5000** in your browser.
 
 ### Default Login Credentials
 | Role | Username | Password |
